@@ -1,0 +1,14 @@
+.центр-контейнер {
+	display: flex;
+    justify-content: center;
+}
+
+#надпись-контейнер {
+    text-align: center;
+}
+
+.ramka {
+   border: 3px dotted yellow;
+   border-radius: 30px;
+}
+    
